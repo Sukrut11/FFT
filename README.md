@@ -16,7 +16,7 @@ You’ll learn how to create synthetic sine waves, mix noise, perform frequency-
 
 ---
 
-## 🧠 Prerequisites
+## Prerequisites
 
 Before running the code, make sure you have Python 3.8+ installed and the following libraries:
 
